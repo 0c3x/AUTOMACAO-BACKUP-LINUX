@@ -11,3 +11,4 @@ Script p/ facilitar a montagem de um novo HD de backup que será retirado e arma
 
 USO DO: mv-backup-to-mnt-hd.sh
 Script que movimento do diretório /home/backup // usuario de pouco privilegio para o HD montado que só é acessado pelo usuario root
+Essa foi uma versão inicial, então quanto a localização de diretórios ou algo do genero fica seu critério.
